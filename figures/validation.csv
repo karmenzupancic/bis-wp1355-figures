@@ -1,0 +1,7 @@
+check,this repository,reference,source
+"flow persistence, all five coins",0.417 (95% CI 0.16 to 0.67),0.361,"paper, Table 2"
+"flow volatility, all five coins",5.9%,6.3%,"paper, Table 2"
+"flow persistence, USDT and USDC",0.518 (95% CI 0.27 to 0.77),0.462,"paper, Table 2"
+"flow volatility, USDT and USDC",2.6%,2.8%,"paper, Table 2"
+"USDC reserves outside the fund, 2025 average",12.4%,11.8% cash ratio,"paper, Annex D"
+"cash policy, formula against numerical optimum",largest gap USD 0.01 bn,0,numerical optimisation
